@@ -14,7 +14,9 @@ Introvert. Theoretical dog lover 🐶 (since I'm not allowed to have one, YET). 
 
 # 📚 Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💯 [Adding custom domain to EC2 instance with NGINX](https://srini-dev.hashnode.dev/adding-custom-domain-to-ec2-instance-with-nginx)
+ - 💯 [Deploying a Next app to AWS EC2 with GitHub actions CI/CD](https://srini-dev.hashnode.dev/deploying-a-next-app-to-aws-ec2-with-github-actions-cicd)
+ - 🔥 [Authentication &amp; Refresh token flow with Nextjs, Typescript, React Query and axios interceptors.](https://srini-dev.hashnode.dev/authentication-refresh-token-flow-with-nextjs-typescript-react-query-and-axios-interceptors)<!-- BLOGPOSTS:END -->
 
 
 # My Tech Stack / Skills
