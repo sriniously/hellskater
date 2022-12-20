@@ -80,7 +80,7 @@ Introvert. Theoretical dog lover 🐶 (since I'm not allowed to have one, YET). 
 
 
 # GitHub Stats
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hellskater/langs)](https://githubtrends.io)
 [![Srini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellskater)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hellskater)](https://git.io/streak-stats)
 
