@@ -14,11 +14,11 @@ Introvert. Theoretical dog lover 🐶 (since I'm not allowed to have one, YET). 
 
 # 📚 Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 🔥 [The Graveyard of Digital Ambitions: Introducing Domain Driven Development](https://srini-dev.hashnode.dev/the-graveyard-of-digital-ambitions-introducing-domain-driven-development)
  - 🔥 [Overcoming Axios Limitations in Service Workers](https://srini-dev.hashnode.dev/overcoming-axios-limitations-in-service-workers)
- - 🔥 [Deep Dive into Chrome Extensions: From Lifecycle to Dataflow](https://srini-dev.hashnode.dev/deep-dive-into-chrome-extensions-from-lifecycle-to-dataflow)
- - ✨ [NarutoDB.xyz: How We Hit 10 Million Requests in 3 Months](https://srini-dev.hashnode.dev/narutodbxyz-how-we-hit-10-million-requests-in-3-months)
- - 🔥 [Introducing the Naruto DB: The most extensive public Naurto API for Naruto Universe](https://srini-dev.hashnode.dev/introducing-the-naruto-db-the-most-extensive-public-naurto-api-for-naruto-universe)
- - 📚 [Adding custom domain to EC2 instance with NGINX](https://srini-dev.hashnode.dev/adding-custom-domain-to-ec2-instance-with-nginx)<!-- BLOGPOSTS:END -->
+ - ✨ [Deep Dive into Chrome Extensions: From Lifecycle to Dataflow](https://srini-dev.hashnode.dev/deep-dive-into-chrome-extensions-from-lifecycle-to-dataflow)
+ - 🔥 [NarutoDB.xyz: How We Hit 10 Million Requests in 3 Months](https://srini-dev.hashnode.dev/narutodbxyz-how-we-hit-10-million-requests-in-3-months)
+ - 📚 [Introducing the Naruto DB: The most extensive public Naurto API for Naruto Universe](https://srini-dev.hashnode.dev/introducing-the-naruto-db-the-most-extensive-public-naurto-api-for-naruto-universe)<!-- BLOGPOSTS:END -->
 
 
 # My Tech Stack / Skills
