@@ -6,7 +6,7 @@ Introvert. Theoretical dog lover 🐶 (since I'm not allowed to have one, YET). 
 
 # 🚀 Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Srinu53168-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sriniously)](https://twitter.com/sriniously) [![Linkedin Badge](https://img.shields.io/badge/k-srinivas53168-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-srinivas53168/) [![Instagram Badge](https://img.shields.io/badge/-@lurch_in_disguise-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/srini53168)
+[![Twitter Badge](https://img.shields.io/badge/-@Srinu53168-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sriniously)](https://twitter.com/sriniously) [![Linkedin Badge](https://img.shields.io/badge/k-srinivas53168-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-srinivas53168/) [![Instagram Badge](https://img.shields.io/badge/-@srini53168-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/srini53168)
 
 - 🖥️ I’m currently building [PlutoAI](https://www.plutoai.in/).
 - 🔭 I’m open for outstanding project ideas.
