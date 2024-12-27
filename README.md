@@ -13,11 +13,11 @@ Introvert. Theoretical dog lover 🐶 (since I'm not allowed to have one, YET). 
 
 # 📚 Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [SafeSpace: An eco-sytem of tools and platforms to browse the internet securely, powered by Pangea](https://srini-dev.hashnode.dev/safespace-an-eco-sytem-of-tools-and-platforms-to-browse-the-internet-securely-powered-by-pangea)
- - 🔥 [Secure CSS in React Applications: A Comprehensive Guide](https://srini-dev.hashnode.dev/secure-css-in-react-applications-a-comprehensive-guide)
- - ✨ [Securing Your npm Projects: 10 Essential Best Practices for npm Security](https://srini-dev.hashnode.dev/securing-your-npm-projects-10-essential-best-practices-for-npm-security)
- - 🔥 [Turn Your Coding Chaos into Clarity with Zist: The Ultimate Code Snippet Manager](https://srini-dev.hashnode.dev/turn-your-coding-chaos-into-clarity-with-zist-the-ultimate-code-snippet-manager)
- - 📚 [The Graveyard of Digital Ambitions: Introducing Domain Driven Development](https://srini-dev.hashnode.dev/the-graveyard-of-digital-ambitions-introducing-domain-driven-development)<!-- BLOGPOSTS:END -->
+ - ✨ [SafeSpace: An eco-sytem of tools and platforms to browse the internet securely, powered by Pangea](https://srini-dev.hashnode.dev/safespace-an-eco-sytem-of-tools-and-platforms-to-browse-the-internet-securely-powered-by-pangea)
+ - 📚 [Secure CSS in React Applications: A Comprehensive Guide](https://srini-dev.hashnode.dev/secure-css-in-react-applications-a-comprehensive-guide)
+ - 🔥 [Securing Your npm Projects: 10 Essential Best Practices for npm Security](https://srini-dev.hashnode.dev/securing-your-npm-projects-10-essential-best-practices-for-npm-security)
+ - 📚 [Turn Your Coding Chaos into Clarity with Zist: The Ultimate Code Snippet Manager](https://srini-dev.hashnode.dev/turn-your-coding-chaos-into-clarity-with-zist-the-ultimate-code-snippet-manager)
+ - ✨ [The Graveyard of Digital Ambitions: Introducing Domain Driven Development](https://srini-dev.hashnode.dev/the-graveyard-of-digital-ambitions-introducing-domain-driven-development)<!-- BLOGPOSTS:END -->
 
 
 # GitHub Stats
